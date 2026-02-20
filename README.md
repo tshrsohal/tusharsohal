@@ -34,19 +34,6 @@ Currently building portfolio projects combining:
 
 ---
 
-## 📊 Featured Projects
-
-### 📈 Financial Performance Dashboard (Excel)
-Built a dynamic executive dashboard analyzing revenue, margins, and growth trends using Power Pivot & DAX.
-
-### 📊 Tax Revenue Trend Analysis (SQL + Excel)
-Analyzed Canadian government tax datasets to uncover revenue trends and YoY growth patterns.
-
-### 📉 Consulting Revenue Analysis (Power Pivot)
-Created data model, relationships, and DAX measures to evaluate business performance.
-
----
-
 ## 📌 Currently Working On
 - Advanced SQL queries
 - Building end-to-end BI projects

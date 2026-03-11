@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Finance professional with experience in accounting and financial reporting, currently transitioning into data analytics. I enjoy turning financial data into insights using Excel, SQL, and Power BI.
+Finance professional with experience in accounting and financial reporting for small businesses. I enjoy turning financial data into business insights using Excel, SQL, and Power BI.
 
 Currently building portfolio projects combining:
 - Finance + Analytics
@@ -24,7 +24,7 @@ Currently building portfolio projects combining:
 - Excel (Power Query, Power Pivot, Advanced Formulas)
 - SQL (MySQL, MS SQL Server)
 - Power BI
-- Python (Pandas, NumPy – learning)
+- Python (Pandas, NumPy, Matplotlib)
 
 **Finance**
 - Financial Statements
